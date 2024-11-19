@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../testest"
+		},
+		{
+			"name": "HackFoodDonor",
+			"path": "../../HackFoodDonor"
+		}
+	],
+	"settings": {}
+}
