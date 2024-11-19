@@ -1,6 +1,7 @@
 # DailyLeetcode
 Challenging myself into doing leetcode everyday
-Leetcode 75
+
+Leetcode 75 - With Python and C and time/space complexity
 | Problem Name                     | Link                                                       | Difficulty  | Status        |
 |-----------------------------------|------------------------------------------------------------|-------------|---------------|
 | **Two Sum**                       | [Link](https://leetcode.com/problems/two-sum/)             | Easy        | Not Started   |
