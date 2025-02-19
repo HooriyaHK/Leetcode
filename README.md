@@ -1,5 +1,4 @@
-# DailyLeetcode
-Challenging myself into doing leetcode everyday
+# Leetcode
 
 Leetcode 75 - With Python and C and time/space complexity
 
